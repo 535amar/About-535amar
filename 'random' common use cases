@@ -1,0 +1,46 @@
+# The ‘random’ module is used in various fields and applications where randomness 
+#Here are some common use cases:
+
+# in cryptography (Although the random module itself is not suitable for cryptographic purposes, randomness is essential in cryptography for generating secure keys, initialization vectors, and nonces)
+
+import secrets
+
+#generate a secure random token
+secure_token = secrets.token_hex(16)
+print(secure_token)
+
+
+# in machine learing (Random numbers are used in machine learning for initializing weights, splitting data into training and testing sets, and performing random sampling)
+
+from sklearn.model_selection import train_test_split
+import numpy as np
+
+# Creating a sample dataset
+data = np.array([i for i in range(100)])
+labels = np.array([0 if i < 50 else 1 for i in range(100)])
+
+# Splitting the dataset
+train_data, test_data, train_labels, test_labels = train_test_split(data, labels, test_size=0.2, random_state=42)
+print(train_data, test_data)
+
+# in Random sampling
+
+population = list(range(1, 101))
+sample = random.sample(population, 10)
+print(sample)
+
+# in Art and Music
+
+# Generating random colors for a painting
+colors = ['red', 'green', 'blue', 'yellow', 'black', 'white']
+painting = [random.choice(colors) for _ in range(100)]
+print(painting)
+
+# in Games
+
+# Shuffling a deck of cards
+deck = list(range(1, 53))
+random.shuffle(deck)
+print(deck)
+
+
