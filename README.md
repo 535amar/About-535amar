@@ -1,21 +1,58 @@
-# Random Module Use Cases
+# Hi there, I'm Amar 👋
 
-This repository contains examples demonstrating the use of Python's `random` module for generating random numbers and making random selections.
+[![Profile Views](https://komarev.com/ghpvc/?username=535amar&color=blueviolet)](https://github.com/535amar)
 
-## Usage
+I'm a **Cybersecurity Enthusiast, Linux Power User, and Python Developer**, currently pursuing my **MSc in Computing and Information Technology** at **Cardiff Metropolitan University**. I love exploring **Linux security, ethical hacking, and data-driven projects**.  
 
-Each Python script in this repository showcases a different use case. You can run any script individually to see the output.
+---
 
-### Examples
+## 🔹 About Me
+- 🌱 Continuously learning **Linux Kernel Security, SOC Operations, and Cybersecurity CTFs**  
+- 💻 Experienced in **Python, Linux, Bash scripting, and security tools**  
+- 🎯 Focused on building projects that demonstrate **practical skills & problem-solving**  
+- 🌍 Open to collaborations and **open-source contributions**  
 
-- `random_float.py`: Generate a random floating-point number between 0 and 1.
-- `random_int.py`: Generate a random integer within a specified range.
-- `random_choice.py`: Select a random element from a list.
-- `shuffle_list.py`: Shuffle the elements of a list in place.
-- `random_sample.py`: Generate a random sample from a list without replacement.
-- `random_float_range.py`: Generate a random floating-point number within a specified range.
-- `random_gaussian.py`: Generate a random number based on the Gaussian distribution.
-- `secure_random.py`: Generate cryptographically secure random numbers.
-- `set_seed.py`: Set a seed for reproducibility.
-- `random_boolean.py`: Generate a random boolean value.
+---
 
+## 🛠️ Skills
+
+![Python](https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 💼 Projects
+
+### 🔹 [Password Checker](https://github.com/535amar/Password-checker)
+- Python script to evaluate **password strength** and detect **breaches**  
+- Includes **unit tests** for reliability  
+
+### 🔹 System Info Scripts
+- Lightweight **Neofetch alternatives** for Linux  
+- Displays **hardware & OS info** in a clean format  
+
+### 🔹 MSc Projects
+ 
+
+---
+
+## 📊 GitHub Stats
+
+![535amar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=535amar&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=535amar&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarjith)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/535amar)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amarjith.rh@example.com)  
+
+---
+
+> "Code, Learn, Explore, Repeat." 💻🚀
