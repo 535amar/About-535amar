@@ -6,7 +6,7 @@ I'm a **Cybersecurity Enthusiast, Linux Power User, and Python Developer**, curr
 
 ---
 
-## 🔹 About Me
+##  About Me
 - 🌱 Continuously learning **Linux Kernel Security, SOC Operations, and Cybersecurity CTFs**  
 - 💻 Experienced in **Python, Linux, Bash scripting, and security tools**  
 - 🎯 Focused on building projects that demonstrate **practical skills & problem-solving**  
@@ -21,21 +21,6 @@ I'm a **Cybersecurity Enthusiast, Linux Power User, and Python Developer**, curr
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 💼 Projects
-
-### 🔹 [Password Checker](https://github.com/535amar/Password-checker)
-- Python script to evaluate **password strength** and detect **breaches**  
-- Includes **unit tests** for reliability  
-
-### 🔹 System Info Scripts
-- Lightweight **Neofetch alternatives** for Linux  
-- Displays **hardware & OS info** in a clean format  
-
-### 🔹 MSc Projects
- 
 
 ---
 
