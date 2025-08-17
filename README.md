@@ -2,7 +2,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=535amar&color=blueviolet)](https://github.com/535amar)
 
-I'm a **Cybersecurity Enthusiast, Linux Power User, and Python Developer**, currently pursuing my **MSc in Computing and Information Technology** at **Cardiff Metropolitan University**. I love exploring **Linux security, ethical hacking, and data-driven projects**.  
+I'm a **Cybersecurity Enthusiast, Linux Power User, and Python Developer**, I love exploring **Linux security, ethical hacking, and data-driven projects**.  
 
 ---
 
