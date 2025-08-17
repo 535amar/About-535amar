@@ -26,7 +26,6 @@ I'm a **Cybersecurity Enthusiast, Linux Power User, and Python Developer**, I lo
 
 ## 📊 GitHub Stats
 
-![535amar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=535amar&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=535amar&layout=compact&theme=radical)
 
 ---
